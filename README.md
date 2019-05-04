@@ -25,7 +25,7 @@ yarn create react-app my-first-app
 **Alternatively,**</br>
  > *To install create-react-app globally,*
 ``` terminal 
-    npm install create-react-app -g 
+ npm install create-react-app -g 
 ```
 > *So, everytime when you want to create a new app, simply type the following command,*
 ``` terminal
