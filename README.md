@@ -1,7 +1,7 @@
 
 ## Description
-React is javascript library for building interactive user interfaces.
-It lets you generate complex UIs from small and isolated pieces of code called "components".
+React is javascript library for building interactive user interfaces.<br>
+It let's you generate complex UIs from small and isolated pieces of code called "components".
 
 ### Creating an App 
  &#9657; **npx** 
